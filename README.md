@@ -9,10 +9,11 @@
 </p>
 
 <p align="center">
-  <a href="https://huggingface.co/datasets/zarchblack/zarchblack-releases/tree/main"><img src="https://img.shields.io/badge/Download_ISO-Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" alt="Download ISO" /></a>
+  <a href="https://huggingface.co/datasets/zarchblack/zarchblack-releases/tree/main"><img src="https://img.shields.io/badge/Download_ISO-Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&lo[...]"
   <a href="https://github.com/ZarchBlack"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://discord.gg/YgVtrsCx"><img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://t.me/zarchblack"><img src="https://img.shields.io/badge/Telegram-Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://zarchblack.pages.dev/"><img src="https://img.shields.io/badge/Website-zarchblack.pages.dev-0EA5E9?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" /></a>
 </p>
 
 <p align="center">
@@ -48,7 +49,7 @@
 - ⚙️ **System Administrators** - Advanced diagnostics and automation tools.
 - 🚀 **Advanced Linux Users** - Full control and customized visual enhancements.
 
-ZarchBlack brings together the power of Arch Linux, the optimizations of the **Cachyos** repository, and the security ecosystem of **BlackArch**, unified under a custom-configured, highly responsive **KDE Plasma 6** environment running on **Wayland** (released in 2026).
+ZarchBlack brings together the power of Arch Linux, the optimizations of the **Cachyos** repository, and the security ecosystem of **BlackArch**, unified under a custom-configured, highly responsi[...]
 
 ---
 
@@ -56,11 +57,11 @@ ZarchBlack brings together the power of Arch Linux, the optimizations of the **C
 
 ZarchBlack is not just another Arch Linux respin; it is a labor of love, dedication, and passion built entirely by **Zero7x**, a self-taught Moroccan developer. 
 
-Zero7x did not formally study computer science, programming, or software engineering. His skills are the result of pure curiosity, self-learning, and an intense passion for open-source systems. Driven by this hobby, he spent months of long days and sleepless nights resolving compilation errors, tweaking configs, testing system configurations, and repeatedly rebuilding the ISO to deliver a powerful, beautiful, and secure operating system.
+Zero7x did not formally study computer science, programming, or software engineering. His skills are the result of pure curiosity, self-learning, and an intense passion for open-source systems. Dr[...]
 
-By gathering ideas from the most popular Linux distributions, Zero7x combined their best qualities into ZarchBlack. To ensure a premium out-of-the-box experience, he spent a significant amount of time curating a massive, high-definition wallpaper collection and designing custom themes and icons. This level of aesthetic refinement has never been seen before in a newly born 2026 distribution.
+By gathering ideas from the most popular Linux distributions, Zero7x combined their best qualities into ZarchBlack. To ensure a premium out-of-the-box experience, he spent a significant amount of [...]
 
-Furthermore, unlike many distributions that are only tested in virtual environments, ZarchBlack was rigorously tested and optimized on **physical hardware and bare-metal drives** to ensure absolute stability, speed, and hardware compatibility.
+Furthermore, unlike many distributions that are only tested in virtual environments, ZarchBlack was rigorously tested and optimized on **physical hardware and bare-metal drives** to ensure absolut[...]
 
 Zero7x believes ZarchBlack has a promising future, and he warmly invites anyone who wants to help develop, test, or contribute to join him on this journey.
 
@@ -81,7 +82,7 @@ Zero7x believes ZarchBlack has a promising future, and he warmly invites anyone 
 ### 🔒 Hardened Security & Repositories
 - **BlackArch Integration:** Ready-to-use access to over 2,000+ security and forensic tools.
 - **Security Defaults:** Pre-configured firewalls (`ufw`, `firewalld`) and secure sandbox isolation (`firejail`) for sensitive applications.
-- **Isolated Testing:** Build and test tools in secure, isolated sandboxes.
+- **Isolated Testing:** Build and test tools in isolated sandboxes.
 
 ---
 
@@ -163,7 +164,7 @@ zpackagemanager
 
 ## 🧰 The Pre-installed Arsenal
 
-ZarchBlack is heavily equipped with a curated selection of tools, ensuring that you have everything you need the moment you boot the system. We've replaced bloated, traditional software with modern, fast, and feature-rich alternatives:
+ZarchBlack is heavily equipped with a curated selection of tools, ensuring that you have everything you need the moment you boot the system. We've replaced bloated, traditional software with mode[...]
 
 ### 1. Terminal & CLI Productivity
 * **Modern CLI Replacements:** `eza` (ls replacement), `bat` (cat with syntax highlighting), `ripgrep` (ultra-fast search), `fd`, `dust`, and `duf`.
@@ -294,6 +295,7 @@ Connect with us and other ZarchBlack users through our community channels:
 - **GitHub Discussions:** [Join the conversation](https://github.com/ZarchBlack)
 - **Discord Server:** [Discord Invite (Temporary)](https://discord.gg/YgVtrsCx)
 - **Telegram Group:** [Telegram Channel (Temporary)](https://t.me/zarchblack)
+- **Website:** [zarchblack.pages.dev](https://zarchblack.pages.dev/)
 - **Official Documentation:** [Wiki & Guides (Temporary)](https://github.com/ZarchBlack/ZARCH) 
 
 We welcome developers, security researchers, designers, and writers to help improve ZarchBlack! 
